@@ -1,0 +1,10 @@
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+この順番が必須でCCPhysicsNodeがCCButtonの下ただと玉が出てこないエラーになります。
+CCNode
+ background
+ CCPhysicsNode
+ launcher
+ CCButton
+
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
